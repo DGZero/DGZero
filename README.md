@@ -76,16 +76,25 @@ Gosto de transformar dados brutos em insights acionáveis para resolver problema
 
   <br/>
   
-  <h3>🏅 Certificações</h3>
-  <div align="center">
-    <a href="#" target="_blank">
-      <img src="https://i.imgur.com/itJo2qc.png" height="140" alt="Google IT Support Professional Certificate"/>
-    </a>
-    <br/>
-    <p><strong>Google IT Support Professional Certificate</strong></p>
-  </div>
-
-</div>
+<h3>🏅 Certificações</h3>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="50%">
+          <a href="#" target="_blank">             <img src="https://i.imgur.com/itJo2qc.png" height="140" alt="Google IT Support Professional Certificate"/>
+          </a>
+          <br/>
+          <p><strong>Google IT Support</strong></p>
+        </td>
+        <td align="center" width="50%">
+          <a href="#" target="_blank">             <img src="https://i.imgur.com/0ZqV046.png" height="140" alt="Google Data Analytics Professional Certificate"/>
+          </a>
+          <br/>
+          <p><strong>Google Data Analytics</strong></p>
+        </td>
+      </tr>
+    </table>
+  </div>
 
 <br/>
   ---
@@ -114,6 +123,5 @@ Gosto de transformar dados brutos em insights acionáveis para resolver problema
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DGZero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGZero&layout=compact&theme=dracula"/>
 </div>
