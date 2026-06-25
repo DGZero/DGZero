@@ -9,13 +9,17 @@
   SQL | Python | Power BI | AWS
   
   <pre>
-Sou um profissional apaixonado por tecnologia, atualmente migrando da área de Suporte Técnico para Análise de Dados. 
-Gosto de transformar dados brutos em insights acionáveis para resolver problemas de negócio.
+    
+Sou Analista de Suporte Técnico com experiência em troubleshooting L2/L3, Linux e operações de TI.
+Atualmente estou expandindo minha atuação para Data Analytics, utilizando SQL, Python e 
+Power BI para investigar causas raiz, automatizar análises e transformar dados em insights para tomada de decisão.
+Meu objetivo é unir experiência operacional e análise de dados para resolver problemas complexos de negócio.
+    
   </pre>
 
   <pre>
 🔭 Atualmente estou trabalhando em: Projetos de Portfólio com Python e SQL
-🌱 Estou aprendendo: SQL, Python, Data Analytics, Cloud, Support Engineering
+🌱 Atualmente estudando: SQL Avançado, Python para Análise de Dados, Engenharia de Dados e Microsoft Fabric
 👯 Procuro colaborar em: Projetos de Análise de Dados Open Source
 💬 Pergunte-me sobre: Hardware, Sistemas Operacionais e Cloud
 📫 Como me contatar: Veja abaixo!
@@ -54,14 +58,6 @@ Gosto de transformar dados brutos em insights acionáveis para resolver problema
 
   <br/>
 
-  <h3>📝 Microsoft 365 & Produtividade</h3>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams" />
-
-  <br/>
-
   <h3>☁️ Cloud & Dev</h3>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -76,8 +72,32 @@ Gosto de transformar dados brutos em insights acionáveis para resolver problema
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 
   <br/>
+
+# 🚀 Featured Projects
+
+## 📊 Support Tickets Analysis
+Análise de chamados de suporte utilizando Python e Pandas para identificar causas raiz, tendências de SLA e oportunidades de melhoria operacional.
+
+**Stack:** Python, Pandas, Matplotlib
+
+---
+
+## 📦 E-commerce Logistics Analysis
+Projeto utilizando o dataset Olist para investigar atrasos logísticos, calcular métricas de SLA e identificar gargalos por categoria e região.
+
+**Stack:** Python, Pandas, Seaborn
+
+---
+
+## ☕ Coffee Machine Simulator
+Projeto em Python focado em lógica de programação, estruturas de dados e orientação a objetos.
+
+**Stack:** Python
+
+
   
-<h3>🏅 Certificações</h3>
+# 🏅 Certificações
+
   <div align="center">
     <table>
       <tr>
@@ -96,6 +116,14 @@ Gosto de transformar dados brutos em insights acionáveis para resolver problema
       </tr>
     </table>
   </div>
+
+  ## 🎯 Current Learning Roadmap
+
+- SQL (SQLBolt + PostgreSQL)
+- Python for Data Analysis
+- Microsoft DP-800
+- Microsoft DP-900
+- Data Engineering Fundamentals
 
 <br/>
   ---
