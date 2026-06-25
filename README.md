@@ -5,8 +5,9 @@
   <br/>
 
   # Olá, eu sou Deivid Gabriel! 👋
-  ## 📊 Data Analyst em Transição | Tech Support Specialist
-
+  ## 📊 Data Analytics & IT Operations
+  SQL | Python | Power BI | AWS
+  
   <pre>
 Sou um profissional apaixonado por tecnologia, atualmente migrando da área de Suporte Técnico para Análise de Dados. 
 Gosto de transformar dados brutos em insights acionáveis para resolver problemas de negócio.
