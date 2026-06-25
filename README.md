@@ -15,7 +15,7 @@ Gosto de transformar dados brutos em insights acionáveis para resolver problema
 
   <pre>
 🔭 Atualmente estou trabalhando em: Projetos de Portfólio com Python e SQL
-🌱 Estou aprendendo: Python, Machine Learning e AWS Cloud
+🌱 Estou aprendendo: SQL, Python, Data Analytics, Cloud, Support Engineering
 👯 Procuro colaborar em: Projetos de Análise de Dados Open Source
 💬 Pergunte-me sobre: Hardware, Sistemas Operacionais e Cloud
 📫 Como me contatar: Veja abaixo!
