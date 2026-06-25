@@ -76,14 +76,16 @@ Meu objetivo é unir experiência operacional e análise de dados para resolver 
 # 🚀 Featured Projects
 
 ## 📊 Support Tickets Analysis
-Análise de chamados de suporte utilizando Python e Pandas para identificar causas raiz, tendências de SLA e oportunidades de melhoria operacional.
+Análise de chamados de suporte utilizando Python e Pandas para identificar causas raiz, tendências de SLA e 
+oportunidades de melhoria operacional.
 
 **Stack:** Python, Pandas, Matplotlib
 
 ---
 
 ## 📦 E-commerce Logistics Analysis
-Projeto utilizando o dataset Olist para investigar atrasos logísticos, calcular métricas de SLA e identificar gargalos por categoria e região.
+Projeto utilizando o dataset Olist para investigar atrasos logísticos, calcular métricas de SLA e 
+identificar gargalos por categoria e região.
 
 **Stack:** Python, Pandas, Seaborn
 
@@ -96,7 +98,7 @@ Projeto em Python focado em lógica de programação, estruturas de dados e orie
 
 
   
-# 🏅 Certificações
+# 🏅 Certifications
 
   <div align="center">
     <table>
